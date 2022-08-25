@@ -19,4 +19,4 @@ Test Robot Framework
     [Documentation]
     ...    Make sure that the instilation was successful
 
-    Sleep    10 Seconds
+    Sleep    10 seconds
