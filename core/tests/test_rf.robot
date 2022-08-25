@@ -2,7 +2,7 @@
 Documentation
 ...    Test that my setup of Robot Framework was successful
 
-Resource    ./core/resources.robot
+Resource    ../../core/resources.robot
 
 Suite Setup
 ...    Begin Session
