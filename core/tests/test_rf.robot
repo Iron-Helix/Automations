@@ -1,4 +1,4 @@
-*** Settings ***
+***Settings***
 Documentation
 ...    Test that my setup of Robot Framework was successful
 
