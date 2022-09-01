@@ -1,5 +1,5 @@
 *** Settings ***
-# Variables
+# Veriables
 Resource    ./veriables/core.robot
 
 # Libraries
