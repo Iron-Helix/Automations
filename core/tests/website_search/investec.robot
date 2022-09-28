@@ -44,7 +44,7 @@ UI Automation Test
     Scroll Element Into View    xpath: //*[contains(text(),'Sign up')]
     Click Element    xpath: //*[contains(text(),'Sign up')]
 
-    Wait Until Element Is Enabled    class: forms__section
+    Wait Until Element Is Enabled    class: forms__section    ${timeout}
     Scroll Element Into View    xpath: //*[contains(text(),'Submit')]
 
     Input Text    name: name   Justin
