@@ -2,6 +2,7 @@ Requirments
 
 install python version 3.10.7 
 install Robot Framework version 5.0.1 from PYPI
+install webdrivermanger pip install webdrivermanager
 
 Libraries 
 
