@@ -7,7 +7,7 @@ Begin Session
     Set Selenium Timeout    ${timeout}
     
     Open Browser
-        ...    url=https://www.google.com
+        ...    url=https://www.investec.com
         ...    browser=chrome
     Maximize Browser Window
 

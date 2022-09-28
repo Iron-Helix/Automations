@@ -11,3 +11,5 @@ Library    OperatingSystem
 Library    Process
 Library    RequestsLibrary
 Library    SeleniumLibrary
+Library    JSONLibrary
+Library    JsonValidator
